@@ -1,0 +1,29 @@
+name = "Digbys War Room Quickjoin"
+modname = "digbyquickjoin"
+prefix = "digbyquickjoin"
+author = "Crowdedlight"
+mainprefix = "z"
+sig_version = 3
+reuse_private_key = true
+files = [
+  "mod.cpp",
+  "logo_crow.paa",
+  "README.md",
+]
+include = ["./include"]
+exclude = [
+  "*.psd",
+  "*.png",
+  "*.tga"
+]
+  
+key_name = "{{prefix}}_{{version}}"
+authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
+  
+releasebuild = [
+  "@zip @digbyquickjoin_{{version}}"
+]
+  
+[header_exts]
+version = "{{git \"id 8\"}}"
+author = "Crowdedlight"

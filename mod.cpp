@@ -1,10 +1,10 @@
 name = "Digbys War Room Server Quickjoin";
 dir = "@digbyquickjoin";
 author = "Crowdedlight";
-picture = "logo_crow.paa";
+picture = "digby_logo.paa";
 description = "Shortcut to join digbys war-room server";
-logo = "logo_crow.paa";
-logoOver = "logo_crow.paa";
+logo = "digby_logo.paa";
+logoOver = "digby_logo.paa";
 tooltip = "Digbys War Room Server Quickjoin";
 overview = "Adds shortcut to main menu to quick join Digbys War-Room server";
-overviewPicture = "logo_crow.paa";
+overviewPicture = "digby_logo.paa";

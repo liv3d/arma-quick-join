@@ -14,7 +14,7 @@ class RscDisplayMain: RscStandardDisplay {
                     text = "Digby War Room";
                     tooltip = "Connect to Digby War Room Server";
                     y = "(3 * 	1.5) * 	(pixelH * pixelGrid * 2) + 	(pixelH)";
-                    onbuttonclick = "connectToServer ['194.147.122.223', 2302, '']";
+                    onbuttonclick = "connectToServer ['65.108.4.90', 2302, '']";
                 };
             };
         };

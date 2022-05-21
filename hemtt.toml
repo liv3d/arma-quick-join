@@ -8,6 +8,7 @@ reuse_private_key = true
 files = [
   "mod.cpp",
   "logo_crow.paa",
+  "digby_logo.paa",
   "README.md",
 ]
 include = ["./include"]

@@ -1,0 +1,7 @@
+name = "liv3d Quickjoin"
+modname = "liv3dquickjoin"
+prefix = "liv3dquickjoin"
+author = "liv3d / Crowdedlight"
+mainprefix = "z"
+sig_version = 3
+reuse_private_key = true

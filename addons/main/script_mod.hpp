@@ -1,5 +1,5 @@
 #define MAINPREFIX z
-#define PREFIX digbyquickjoin
+#define PREFIX liv3dquickjoin
 
 #include "script_version.hpp"
 

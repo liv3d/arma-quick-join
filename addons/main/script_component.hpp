@@ -1,5 +1,5 @@
 #define COMPONENT main
-#include "\z\digbyquickjoin\addons\main\script_mod.hpp"
+#include "\p\liv3dquickjoin\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -11,4 +11,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_MAIN
 #endif
 
-#include "\z\digbyquickjoin\addons\main\script_macros.hpp"
+#include "\p\liv3dquickjoin\addons\main\script_macros.hpp"

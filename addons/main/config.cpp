@@ -7,7 +7,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"cba_main"};
-        author = "Crowdedlight";
+        author = "liv3d / Crowdedlight";
         VERSION_CONFIG;
     };
 };

@@ -9,3 +9,5 @@ hemtt\.exe
 *.sqfc
 *.bat
 *.dll
+images/*
+.hemttout

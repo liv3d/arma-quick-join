@@ -1,10 +1,10 @@
 name = "Quick join liv3d's servers";
 dir = "@liv3dquickjoin";
 author = "liv3d / Crowdedlight";
-picture = "liv3d_logo.paa";
+//picture = "liv3d_logo.paa";
 description = "Shortcut to join liv3d's servers - based on the work Crowded light did for Digby's servers";
-logo = "liv3d_logo.paa";
-logoOver = "liv3d_logo.paa";
+//logo = "liv3d_logo.paa";
+//logoOver = "liv3d_logo.paa";
 tooltip = "liv3d server Quickjoin";
 overview = "Adds shortcut to main menu to quickly join both of liv3d's servers";
-overviewPicture = "liv3d_logo.paa";
+//overviewPicture = "liv3d_logo.paa";

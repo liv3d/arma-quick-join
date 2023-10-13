@@ -6,7 +6,7 @@ class RscDisplayMain: RscStandardDisplay {
             class Controls;
         };
         class GroupMultiplayer: GroupSingleplayer {
-			h = "(6 * 	1.5) * 	(pixelH * pixelGrid * 2)";
+			h = "(12 * 	1.5) * 	(pixelH * pixelGrid * 2)";
             class Controls: Controls {
                 class ServerBrowser;
                 class Joinliv3dMainServer: ServerBrowser {
@@ -17,10 +17,10 @@ class RscDisplayMain: RscStandardDisplay {
                     onbuttonclick = "connectToServer ['116.202.233.203', 2302, '']";
                 };
                 class Joinliv3dAntiStasi: ServerBrowser {
-                    idc = -1;
+                    idc = 0;
                     text = "liv3d's Antistasi server";
                     tooltip = "Connect to liv3d's AntiStasi server";
-                    y = "(3 * 	1.5) * 	(pixelH * pixelGrid * 2) + 	(pixelH)";
+                    y = "(4 * 	1.5) * 	(pixelH * pixelGrid * 2) + 	(pixelH)";
                     onbuttonclick = "connectToServer ['116.202.233.203', 2402, '']";
                 };
             };
